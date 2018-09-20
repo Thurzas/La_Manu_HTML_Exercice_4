@@ -2,7 +2,7 @@
 
 <p>Reproduire l'image correspondant à l'éxercice</p>
 <p>Pour les liens, mettre le site correspondant. J e vous laisse les trouver par vous-même.</p>
-<p>L'image se trouve à l'adresse: <a src="http://www.infowebmaster.fr/img/petite-image/bloc-note-stylo.png">http://www.infowebmaster.fr/img/petite-image/bloc-note-stylo.png</a></p>
+<p>L'image se trouve à l'adresse: <a href="http://www.infowebmaster.fr/img/petite-image/bloc-note-stylo.png">http://www.infowebmaster.fr/img/petite-image/bloc-note-stylo.png</a></p>
 <ul>
 
    <li>Vous ne devez pas télécharger l'image.</li>
